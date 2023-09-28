@@ -19,7 +19,7 @@ Run the "eeprom" code first to clear the EEPROM data from the Arduino ( not esse
 Run the "setup" code next and follow the instructions that pop up in the serial monitor.
 Run the "calibrate" code next and after the sketch is done compiling and uploading, type "r" in the serial monitor and press enter, then change the thust sloely using the telemetry to get the various Start 0-1-2 values, then type "a" in the serial monitor and press enter. After doing the same unplug thr Arduino from the device you are coding in.
 after closing all the previous codes, test if all the motors are functioning properly with the thrust.
-Finally run the "flight_control" code and disconnect the arduino board again.
+Finally run the "flight" code and disconnect the arduino board again.
 
 
 Conduct a test flight and recalibrate if any issue arises later, or change the initial values in the code if you know what you are doing.
