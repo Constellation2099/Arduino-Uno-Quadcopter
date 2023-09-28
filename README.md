@@ -22,4 +22,4 @@ after closing all the previous codes, test if all the motors are functioning pro
 Finally run the "flight_control" code and disconnect the arduino board again.
 
 
-Conduct a test flight and recalibrate if any issue arises later, or change the initial values in the code if you know aht you are doing.
+Conduct a test flight and recalibrate if any issue arises later, or change the initial values in the code if you know what you are doing.
